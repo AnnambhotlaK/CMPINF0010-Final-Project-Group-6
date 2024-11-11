@@ -1,7 +1,7 @@
 ## Team Name
 Group 6
 
-## Team Members and Contact Information
+## Team Members
 - **Kishore Annambhotla** - Air Quality Analysis ()
 - **Isabella DeRubeis** - Safety Analysis (isd10@pitt.edu)
 - **Dionysios Mallas** - Parks Analysis ()
