@@ -13,4 +13,4 @@ Group 6
 
 
 ## Project Overview
-This repository contains our analysis of Pittsburgh's best neighborhood for dogs based on air quality, crime, and parks. 
+This repository contains our analysis of Pittsburgh's best neighborhood for dogs based on air quality, safety, and parks. 
