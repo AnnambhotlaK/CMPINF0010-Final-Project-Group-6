@@ -8,7 +8,7 @@ Group 6
 
 ## Datasets Used
 1. **Air Quality Data**: Used for assessing air quality levels by neighborhood, available from the [WPRDC](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b).
-2. **Safety Data**: Used for analyzing neighborhood safety. Sourced from the [WPRDC](https://data.wprdc.org/dataset/pgh).
+2. **Safety Data**: Used for analyzing neighborhood safety. Sourced from the [WPRDC](https://data.wprdc.org/dataset/pgh/resource/204f63f4-296f-4f1d-bbdd-946b183fa5a0).
 3. **Parks Data**: Used for evaluating access to parks and green spaces by neighborhood, also from the [WPRDC - Allegheny county park outlines](https://data.wprdc.org/dataset/allegheny-county-parks-outlines) and [WPRDC - city of Pittsburgh parks](https://data.wprdc.org/dataset/parks1).
 
 
