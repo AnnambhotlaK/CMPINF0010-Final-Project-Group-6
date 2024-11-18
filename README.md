@@ -2,9 +2,9 @@
 Group 6
 
 ## Team Members
-- **Kishore Annambhotla** - Air Quality Analysis (kba32@pitt.edu)
-- **Isabella DeRubeis** - Safety Analysis (isd10@pitt.edu)
-- **Dionysios Mallas** - Parks Analysis (dim94@pitt.edu)
+- **Kishore Annambhotla** - Air Quality Analysis (kba32@pitt.edu) (Notebook: Air-Quality-Data.ipynb)
+- **Isabella DeRubeis** - Safety Analysis (isd10@pitt.edu) (Notebook: public-safety-data.ipynb)
+- **Dionysios Mallas** - Parks Analysis (dim94@pitt.edu) (Notebook: Park-Data.ipynb)
 
 ## Datasets Used
 1. **Air Quality Data**: Used for assessing air quality levels by neighborhood, available from the [WPRDC](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b).
